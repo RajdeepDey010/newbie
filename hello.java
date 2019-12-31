@@ -7,5 +7,8 @@ class Car
     int c;
     c=a+b;
     System.out.println("Ferrari");
+    System.out.println("Enter the mileage of Ferrari");
+    c=Integer.parse(int);
+    System.out.println("Ferrari mileage: "+ c);
   }
 }
