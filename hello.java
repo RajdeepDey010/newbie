@@ -6,6 +6,6 @@ class Car
     int a=1,b=3;
     int c;
     c=a+b;
-    System.out.println(c);
+    System.out.println("Ferrari");
   }
 }
